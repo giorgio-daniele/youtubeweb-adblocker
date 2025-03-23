@@ -18,7 +18,3 @@ This guide explains how to load the unpacked **Ad Blocker** extension in **Chrom
 1. Open **Edge** and go to **Extensions**.
 2. Enable **Developer mode** (bottom-left).
 3. Click **Load unpacked** and select the extension folder.
-
----
-
-### **Enjoy an Ad-Free Browsing Experience!**

@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Block YouTube Ads",
+    "version": "1.0",
+    "permissions": [
+      "webRequest",
+      "webRequestBlocking",
+      "storage",
+      "activeTab"
+    ],
+    "background": {
+      "scripts": ["main.js"],
+      "persistent": true
+    },
+    "host_permissions": [
+      "*://*.googlevideo.com/*"
+    ]
+  }
+  
